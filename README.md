@@ -1,2 +1,2 @@
 # hello-world
-just for exercize
+Happy New Year
